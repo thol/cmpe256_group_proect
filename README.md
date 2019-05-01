@@ -1,6 +1,7 @@
 # cmpe256_group_project
 Large scale analytics group project
 
+
 Ensure the following libraries are installed on the machine:
 
 Python==3.7
@@ -12,6 +13,8 @@ Matplotlib==2.1.0
 nltk==3.4.1
 stemming==1.0.1
 networkx==2.3
+
+
 
 Folder Structure:
 
@@ -26,15 +29,21 @@ Project_Report_Group_12
 Project_Presentation_Group_12
 README.doc
 
+
+
 ******* Loading Submission Files********
 
 Step 1: Unzip the file "Project_Group_13"
 
 NOTE: Ensure all scripts and data are in the same folder before starting the execution
 
+
+
 ******* Preprocessing *******
 
 Step 2: Load "Preprocessing.py" file in Jupyter notebook
+
+
 
 ****** Model Building ********
 
