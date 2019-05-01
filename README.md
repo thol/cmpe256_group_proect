@@ -27,15 +27,19 @@ Project_Presentation_Group_12
 README.doc
 
 ******* Loading Submission Files********
+
 Step 1: Unzip the file "Project_Group_13"
 
 NOTE: Ensure all scripts and data are in the same folder before starting the execution
 
 ******* Preprocessing *******
+
 Step 2: Load "Preprocessing.py" file in Jupyter notebook
 
 ****** Model Building ********
+
 Step 3: Load “books_recommend.py” file in Jupyter notebook
+
 Step 4: Run the entire script
 
 
