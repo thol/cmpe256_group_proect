@@ -5,13 +5,21 @@ Large scale analytics group project
 Ensure the following libraries are installed on the machine:
 
 Python==3.7
+
 Scikit-learn==0.19.1
+
 Scipy==0.19.1
+
 Pandas==0.23.4
+
 Numpy==1.15.4
+
 Matplotlib==2.1.0
+
 nltk==3.4.1
+
 stemming==1.0.1
+
 networkx==2.3
 
 
