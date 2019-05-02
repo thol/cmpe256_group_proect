@@ -27,12 +27,14 @@ README.doc
 
 
 ******* Loading Submission Files********
+
 Step 1: Go to https://github.com/thol/cmpe256_group_project
 Clone or download the repository
 
 NOTE: Ensure all scripts and data are in the same folder before starting the execution
 
 ******* Preprocessing and graph generation *******
+
 Step 2: Load "Preprocessing.py" file in Jupyter notebook
 Open a R IDE
 Run the R files in r_module and run in the following order
