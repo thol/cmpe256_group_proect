@@ -5,10 +5,6 @@ Ensure the following libraries are installed on the machine:
 
 Python==3.7
 
-Scikit-learn==0.19.1
-
-Scipy==0.19.1
-
 Pandas==0.23.4
 
 Numpy==1.15.4
@@ -25,16 +21,12 @@ Folder Structure:
 
 Data
 - amazon-meta.txt
+
 Preprocessing
 - Preprocessing (py, ipynb)
+
 Algorithms_Implementation
 - Books_Recommend (py, ipynb)
-Project_Report_Group_12
-
-Project_Presentation_Group_12
-
-
-
 
 ******* Loading Submission Files********
 
